@@ -1,4 +1,4 @@
-<h1 align="center">Formula 1 Championship Simulator & Management System<br>in Java</h1>
+<h1 align="center">Formula 1 Championship Simulator <br>in Java</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17%2B-ED8B00?logo=openjdk&logoColor=white">
